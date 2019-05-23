@@ -1,3 +1,4 @@
+Здесь будут собраны мой различный компоненты для сайтов на чистом JavaScript.
 
 Страница Калькулятора: https://chporiy.github.io/Website-Components/calc/
 
